@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+dir_enum_env/
+
+# Results and logs
+results/
+logs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.bin
+*.json
+*.h5
+
+# Local configuration files
+*.env
+*.local
+
+# Miscellaneous
+*.DS_Store
+*.swp
+*.swo
+*.tmp
+*.log
